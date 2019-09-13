@@ -1,0 +1,67 @@
+Sep 13 19:34:04 incinga sudo[3782]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo cat /etc/icinga2/features-available/ido-mysql.conf
+Sep 13 19:34:04 incinga sudo[3783]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/cat /etc/icinga2/features-available/ido-mysql.conf
+Sep 13 19:34:04 incinga sudo[3785]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/icinga2/features-available/api.conf ]
+Sep 13 19:34:04 incinga sudo[3787]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo ls -ld /etc/icinga2/features-available/api.conf
+Sep 13 19:34:04 incinga sudo[3788]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/ls -ld /etc/icinga2/features-available/api.conf
+Sep 13 19:34:04 incinga sudo[3790]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/icinga2/features-available/api.conf ]
+Sep 13 19:34:04 incinga sudo[3792]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo cat /etc/icinga2/features-available/api.conf
+Sep 13 19:34:04 incinga sudo[3793]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/cat /etc/icinga2/features-available/api.conf
+Sep 13 19:34:04 incinga sudo[3795]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/icinga2/features-available/graphite.conf ]
+Sep 13 19:34:04 incinga sudo[3797]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo ls -ld /etc/icinga2/features-available/graphite.conf
+Sep 13 19:34:04 incinga sudo[3798]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/ls -ld /etc/icinga2/features-available/graphite.conf
+Sep 13 19:34:04 incinga sudo[3800]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/icinga2/features-available/graphite.conf ]
+Sep 13 19:34:04 incinga sudo[3802]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo cat /etc/icinga2/features-available/graphite.conf
+Sep 13 19:34:04 incinga sudo[3803]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/cat /etc/icinga2/features-available/graphite.conf
+Sep 13 19:34:04 incinga sudo[3805]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/httpd/conf.d/phpMyAdmin.conf ]
+Sep 13 19:34:04 incinga sudo[3807]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/httpd/conf.d/phpMyAdmin.conf ]
+Sep 13 19:34:04 incinga sudo[3809]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/httpd/conf.d/graphite-web.conf ]
+Sep 13 19:34:04 incinga sudo[3811]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/httpd/conf.d/graphite-web.conf ]
+Sep 13 19:34:04 incinga sudo[3813]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/elasticsearch/elasticsearch.yml ]
+Sep 13 19:34:04 incinga sudo[3815]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/elasticsearch/elasticsearch.yml ]
+Sep 13 19:34:04 incinga sudo[3817]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /var/log/elasticsearch/syslog.log ]
+Sep 13 19:34:04 incinga sudo[3819]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /var/log/elasticsearch/syslog.log ]
+Sep 13 19:34:04 incinga sudo[3821]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/postfix/main.cf ]
+Sep 13 19:34:04 incinga sudo[3823]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo ls -ld /etc/postfix/main.cf
+Sep 13 19:34:04 incinga sudo[3824]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/ls -ld /etc/postfix/main.cf
+Sep 13 19:34:04 incinga sudo[3826]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/postfix/main.cf ]
+Sep 13 19:34:04 incinga sudo[3828]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo cat /etc/postfix/main.cf
+Sep 13 19:34:04 incinga sudo[3829]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/cat /etc/postfix/main.cf
+Sep 13 19:34:04 incinga sudo[3831]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /var/www/html/config.php ]
+Sep 13 19:34:04 incinga sudo[3833]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /var/www/html/config.php ]
+Sep 13 19:34:05 incinga sudo[3835]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/php.ini ]
+Sep 13 19:34:05 incinga sudo[3837]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo ls -ld /etc/php.ini
+Sep 13 19:34:05 incinga sudo[3838]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/ls -ld /etc/php.ini
+Sep 13 19:34:05 incinga sudo[3840]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/[ -e /etc/php.ini ]
+Sep 13 19:34:05 incinga sudo[3842]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/sudo cat /etc/php.ini
+Sep 13 19:34:05 incinga sudo[3843]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/cat /etc/php.ini
+Sep 13 19:34:19 incinga chronyd[608]: Source 74.208.26.225 replaced with 192.241.146.233
+Sep 13 19:34:52 incinga sudo[3862]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash
+Sep 13 19:34:58 incinga sudo[3876]:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/systemctl restart icinga2.service
+Sep 13 19:34:58 incinga polkitd[617]: Registered Authentication Agent for unix-process:3877:11637 (system bus name :1.35 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Sep 13 19:34:58 incinga systemd[1]: Starting Icinga host/service/network monitoring system...
+-- Subject: Unit icinga2.service has begun start-up
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit icinga2.service has begun starting up.
+Sep 13 19:34:58 incinga icinga2[3944]: [2019-09-13 19:34:58 -0400] information/cli: Icinga application loader (version: v2.5.4)
+Sep 13 19:34:58 incinga icinga2[3944]: [2019-09-13 19:34:58 -0400] information/cli: Loading configuration file(s).
+Sep 13 19:34:58 incinga icinga2[3944]: [2019-09-13 19:34:58 -0400] critical/config: Error: Object 'osticket' of type 'Host' re-defined: in /etc/icinga2/conf.d/hosts.conf: 1:0-1:21; previous definition: in /etc/icinga2/zones.conf: 13:1-13:22
+Sep 13 19:34:58 incinga icinga2[3944]: Location: in /etc/icinga2/conf.d/hosts.conf: 1:0-1:21
+Sep 13 19:34:58 incinga icinga2[3944]: /etc/icinga2/conf.d/hosts.conf(1): object Host "osticket" {
+Sep 13 19:34:58 incinga icinga2[3944]: ^^^^^^^^^^^^^^^^^^^^^^
+Sep 13 19:34:58 incinga icinga2[3944]: /etc/icinga2/conf.d/hosts.conf(2):  import "generic-host"
+Sep 13 19:34:58 incinga icinga2[3944]: /etc/icinga2/conf.d/hosts.conf(3):  address = "10.23.45.20"
+Sep 13 19:34:58 incinga systemd[1]: icinga2.service: control process exited, code=exited status=1
+Sep 13 19:34:58 incinga systemd[1]: Failed to start Icinga host/service/network monitoring system.
+-- Subject: Unit icinga2.service has failed
+-- Defined-By: systemd
+-- Support: http://lists.freedesktop.org/mailman/listinfo/systemd-devel
+-- 
+-- Unit icinga2.service has failed.
+-- 
+-- The result is failed.
+Sep 13 19:34:58 incinga systemd[1]: Unit icinga2.service entered failed state.
+Sep 13 19:34:58 incinga systemd[1]: icinga2.service failed.
+Sep 13 19:34:58 incinga polkitd[617]: Unregistered Authentication Agent for unix-process:3877:11637 (system bus name :1.35, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+lines 2466-2531/2531 (END)
